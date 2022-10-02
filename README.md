@@ -6,4 +6,4 @@
 
 - Publish your work (using netlify/heroku/github pages etc.)
 
-URL:
+URL: https://test-whale-icecream-client-638j.vercel.app/
